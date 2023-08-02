@@ -35,5 +35,5 @@ THEN I can save my initials and my score
 ## Screenshots
 
 ![](./example-assets/start-screen.png)
-![](./example-assets/quiz-screeenshot.png)
-![](/example-assets/highscore-screeenshot.png)
+![](./example-assets/quiz-screenshot.png)
+![](./example-assets/highscore-screeenshot.png)
